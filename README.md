@@ -1,20 +1,12 @@
-## Hi there 👋
+### Hi, I'm Mia 👋
 
-I'm Mia Jaenike, an undergraduate student pursuing a Bachelor's degree in Economics with minors in Digital & Computational Studies and Mathematics. I'm interested in data science, machine learning, and exploring creative data uses in media, such as books, music, and movies.
+I'm an M.A. student in Quantitative Methods (MAPSS) at the **University of Chicago**, working at the intersection of econometrics and data science, with a focus on **quantitative finance**. Previously: B.A. in Economics, Bates College (Phi Beta Kappa) and a year at the London School of Economics.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mia-jaenike-86b2b5296/)
+🌐 **[mjaenike.github.io](https://mjaenike.github.io)** · 📄 [Resume](https://mjaenike.github.io/Mia_Jaenike_Resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/mia-jaenike-86b2b5296) · ✉️ miaajaenike@gmail.com
 
-### 🌟 Skills
-- **Languages:** Python, Stata, R, SQL
-- **Data Tools:** Pandas, Let's-Plot, Tableau
-- **Machine Learning:** Scikit-learn
-- **Databases:** MongoDB, Neo4j, SQL (relational databases)
-- **Other:** API integration, data visualization
+**What I work on**
+- Text-based signals and financial markets: my senior thesis tested whether Reddit sentiment predicts abnormal stock returns around AI product announcements (event studies, panel FE, Granger causality, VAR/IRF)
+- Large-scale data collection: APIs, web scraping, and NLP pipelines (TF-IDF, LASSO, VADER)
+- Experimental economics: oTree and Qualtrics instruments for research on AI-assisted work
 
-### 🔧 Featured Projects
-- **[London Weather Analysis](https://github.com/mjaenike/London_Weather_Analysis):** Analysis and visualization of historical rainfall data, comparing London to other major cities and world capitals.
-- **[Spotify Playlist Analysis](https://github.com/mjaenike/Spotify_Playlist_Analysis)** An exploratory data analysis project that visualizes Spotify listening trends by time of day. Utilizes the Spotify API, Pandas, and Lets-Plot for data retrieval and visualization.
-
-### 🎯 Current Goals
-- Enhancing machine learning skills and working on media-based ML projects.
-- Exploring database technologies like MongoDB and Neo4j Aura.
+**Tools:** Python (pandas, NumPy, scikit-learn, StatsModels) · R (tidyverse) · SQL · Stata · Git
